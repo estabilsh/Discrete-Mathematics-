@@ -1,1 +1,1 @@
-# Discrete-Mathematics-He-Zhongsheng-
+# Discrete-Mathematics-
